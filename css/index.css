@@ -10,5 +10,7 @@ p {
 
 h1 {
   color: white;
-  text-align: center;
+}
+.text-center {
+    text-align: center!important;
 }
